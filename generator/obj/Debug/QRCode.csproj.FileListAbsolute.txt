@@ -1,9 +1,0 @@
-D:\project\MyWorld\QRCode\bin\Debug\QRCode.exe.config
-D:\project\MyWorld\QRCode\bin\Debug\QRCode.exe
-D:\project\MyWorld\QRCode\bin\Debug\QRCode.pdb
-D:\project\MyWorld\QRCode\obj\Debug\QRCode.csprojResolveAssemblyReference.cache
-D:\project\MyWorld\QRCode\obj\Debug\QRCode.MainForm.resources
-D:\project\MyWorld\QRCode\obj\Debug\QRCode.Properties.Resources.resources
-D:\project\MyWorld\QRCode\obj\Debug\QRCode.csproj.GenerateResource.Cache
-D:\project\MyWorld\QRCode\obj\Debug\QRCode.exe
-D:\project\MyWorld\QRCode\obj\Debug\QRCode.pdb
